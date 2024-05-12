@@ -14,6 +14,7 @@
     function myTest()
     {
         $x = 5;
+        $y=22;
       
         echo "<p>Variable x inside function is: $x</p>";
     }
