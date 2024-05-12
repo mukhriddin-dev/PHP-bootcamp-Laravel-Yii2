@@ -9,6 +9,7 @@
 5. PHP echo and print Statements
 
 - ### PHP Syntax ☺️
+
 ```
 <?php
 
@@ -76,11 +77,3 @@ echo "<p>Variable x outside function is: $x</p>";
 
 
 ```
-
-
-
-
-
-
-
-
