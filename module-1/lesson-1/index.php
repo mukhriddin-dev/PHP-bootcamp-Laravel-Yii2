@@ -19,11 +19,10 @@
 
     $vars = "1111aa";
 
-    echo "salom tog'o";
+    echo "salon tog's";
     echo "<br>";
     print($vars);
     echo $vars;
-
     print 1;
 
     function send(): string
